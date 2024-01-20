@@ -18,7 +18,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🌱 I am currently learning how to use Typescript  
   
@@ -33,7 +33,7 @@
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -78,7 +78,9 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=HopeAero&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=HopeAero&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
