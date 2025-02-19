@@ -3,7 +3,7 @@
 </div>  
   
 
-## I am Emmanuel, a junior backend developer 👨‍💻 with 2 year of experience. 🚀  
+## I am Emmanuel, a junior backend developer 👨‍💻 with 3 year of experience. 🚀  
   
 
 <a href="https://www.linkedin.com/in/emmanuel-salcedo-46101a1a6/" target="_blank">
