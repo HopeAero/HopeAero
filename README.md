@@ -20,13 +20,13 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🌱 I am currently learning how to use Typescript  
+- 🌱 I am currently learning how to use Android Studio & Kotlin
   
 
-- 🔍 I am currently unemployed looking for work  
+- 🔍 I am currently employee en Betaso
   
 
-- ⚡ Fun fact:I prefer MySQL and SQL than MongoDB  
+- ⚡ Fun fact:I prefer MySQL and SQL than MongoDB 
 
 
 </td><td valign="top" width="50%">
