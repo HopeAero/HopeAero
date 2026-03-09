@@ -1,14 +1,14 @@
 # Hi, here is Emmanuel 👋
 
-🚀 I'm a mid-level backend developer with **4+ years** of experience
-💼 Currently working at **Betaso**
-🌱 I'm currently learning `Android Studio` & `Kotlin`
-💾 Fun fact: I always pick `PostgreSQL` or `MySQL` over MongoDB — fight me 😄
+🚀 I'm a mid-level backend developer with **4+ years** of experience<br/>
+💼 Currently working at **Betaso**<br/>
+🌱 I'm currently learning `Android Studio` & `Kotlin`<br/>
+💾 Fun fact: I always pick `PostgreSQL` or `MySQL` over MongoDB — fight me 😄<br/>
 🌎 My time zone is `🕔 GMT/UTC-4` · Venezuela 🇻🇪
 
 #### 💬 CONTACT
 
-💼 LinkedIn: [Emmanuel Salcedo](https://www.linkedin.com/in/emmanuel-salcedo-46101a1a6/)
+💼 LinkedIn: [Emmanuel Salcedo](https://www.linkedin.com/in/emmanuel-salcedo-46101a1a6/)<br/>
 🐙 GitHub: [@HopeAero](https://github.com/HopeAero)
 
 #### 💻 Programming Languages
@@ -16,7 +16,6 @@
 <p>
 <a href="https://github.com/search?q=user%3AHopeAero+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AHopeAero+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3AHopeAero+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AHopeAero+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AHopeAero+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AHopeAero+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -34,7 +33,7 @@
 <a href="#"><img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-E83524.svg?logo=typeorm&logoColor=white"></a>
 <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101.svg?logo=socket.io&logoColor=white"></a>
 <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
-<a href="#"><img alt="Colyseus" height="20" src="assets/svg/colyseus.svg"></a>
+<a href="#"><img alt="Colyseus" src="https://img.shields.io/badge/Colyseus-1A1A2E.svg?logoColor=white"></a>
 </p>
 
 #### ⚙ Software and Tools
@@ -65,7 +64,7 @@
 <a href="#"><img alt="CloudFront" src="https://img.shields.io/badge/CloudFront-8C4FFF.svg?logo=amazon-cloudfront&logoColor=white"></a>
 </p>
 
-#### 📊 Github Stats
+<!-- #### 📊 Github Stats
 
 <table><tr><td valign="top" width="50%">
 
@@ -77,7 +76,7 @@
 
 </td></tr></table>
 
-<br/>
+<br/> -->
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HopeAero&theme=tokyonight&hide_border=true" alt="streak stats"/>
